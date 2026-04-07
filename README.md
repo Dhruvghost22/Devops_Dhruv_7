@@ -1,6 +1,20 @@
 # Devops_Dhruv_7
 This is for Practical
 Author - Dhruv
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p>
   # 🔹 STEP 1: Setup
 git --version
